@@ -5,7 +5,7 @@
 
 ## Team Members:
 - Student 1
-- Student 2
+- Rumali Siddiqua
 - Student 3
 
 ## Project Title:
